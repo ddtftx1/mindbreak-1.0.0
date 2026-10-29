@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    { "item": "minecraft:rotten_flesh" },
+    { "item": "minecraft:spider_eye" },
+    { "item": "minecraft:sugar" }
+  ],
+  "result": {
+    "id": "mindbreak:mystery_meat",
+    "count": 1
+  }
+}

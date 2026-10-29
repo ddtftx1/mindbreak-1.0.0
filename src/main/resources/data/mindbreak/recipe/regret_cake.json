@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    { "item": "minecraft:cake" },
+    { "item": "minecraft:rotten_flesh" },
+    { "item": "minecraft:sugar" }
+  ],
+  "result": {
+    "id": "mindbreak:regret_cake",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "mindbreak",
+	"version": "${version}",
+	"name": "精神污染 Mindbreak",
+	"description": "一个让你怀疑人生的模组。它不崩游戏，它只崩你。",
+	"authors": [
+		"DeepSeek"
+	],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/mindbreak/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mindbreak.MindbreakMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

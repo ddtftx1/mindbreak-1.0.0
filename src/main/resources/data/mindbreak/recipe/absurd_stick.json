@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    { "item": "minecraft:stick" },
+    { "item": "minecraft:gunpowder" },
+    { "item": "minecraft:rotten_flesh" }
+  ],
+  "result": {
+    "id": "mindbreak:absurd_stick",
+    "count": 1
+  }
+}
